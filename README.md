@@ -1,6 +1,6 @@
 # IP Tracker - v1.0
 
-A simple Python-based IP tracker display details for a specific IP address or your own IP address.
+A simple Python-based IP tracker that display details for a specific IP address or your own IP address.
 
 
 ## 📖 Introduction
