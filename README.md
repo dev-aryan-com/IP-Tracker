@@ -14,14 +14,14 @@ The **IP Tracker** is a Python script that allows you to:
 This is a beginner-friendly project for Python enthusiasts to learn about API integration and networking concepts.
 
 
-## 🚀 Features
+### 🚀 Features
 
 *   Tracks your own IP address.
 *   Tracks any other public IP address.
 *   Provides detailed information such as hostname, city, region, and timezone.
 *   Lightweight and easy to use.
 
-## 📦 Installation
+### 📦 Installation
 
 To run the IP Tracker, follow these steps:
 
@@ -44,7 +44,7 @@ To run the IP Tracker, follow these steps:
     ```
 
     
-## ⚙️ Usage
+### ⚙️ Usage
 
 Run the script using Python:
 
@@ -90,6 +90,6 @@ If you encounter any bugs or have suggestions for improvements, feel free to ope
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Author
+## 👨‍💻 Author
 
 ⭐️ From [Aryan Raj](https://github.com/dev-aryan-com)
